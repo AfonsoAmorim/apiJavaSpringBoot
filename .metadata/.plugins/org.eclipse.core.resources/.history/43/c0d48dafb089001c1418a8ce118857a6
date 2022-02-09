@@ -1,0 +1,5 @@
+package com.apijava.userdept.entities;
+
+public class User {
+
+}
